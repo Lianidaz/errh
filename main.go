@@ -1,3 +1,4 @@
+// One function to avoud writing if err != nil...
 package errh
 
 import (
